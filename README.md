@@ -14,7 +14,6 @@
   <img align="left" alt="Priyanka's Github" src="https://img.icons8.com/bubbles/50/000000/github.png"/>
 </a>
 <br>
-
 <br> I am a pre-final year student at UPES, Dehradun, pursuing my Bachelors in Computer Science.<br>
 And also an optimisitic, curious and well-focused developer. :sparkles: <br>
 I am also a Nanodegree graduate from Udacity for “Cloud DevOps Engineer”. :cloud: <br>
@@ -24,9 +23,4 @@ I have done internships as a SDE [@OpenGenus](http://www.opengenus.org/) and [@L
 Besides coding, I like singing :microphone: and sleeping :sleeping:
 
 - :woman_technologist: Code: JavaScript, React, MongoDb, Node.js, GraphQL and Golang.
-- :cloud: Technologies: Cloud and Devops (AWS, Docker, Kubernetes, CircleCi )
-
-<hr>
-
-![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=Priyanka488&show_icons=true&hide_border=true)
-
+- :cloud: Technologies: Cloud and Devops (AWS, Docker, Kubernetes, CircleCi ) 
