@@ -1,11 +1,14 @@
 ### Hi there 👋
 
 Hi, I am Priyanka, a pre-final year student at UPES, Dehradun, pursuing my Bachelors in Computer Science.<br>
-I am an optimisitic, curious and well-focused developer. <br>
-I love building web apps using MERN (MongoDb, Express, React and Node.js)  stack, and I  am currently diving deep into Cloud and Devops technologies (AWS, Docker, Kubernetes, CircleCi ).<br>
+I am an optimisitic, curious and well-focused developer. :sparkles: <br>
 
-I have done internships as a SDE @OpenGenus and @LinkedIn. And have also been a Crio Launch student @crio-do. <br>
-Besides coding, I like singing and sleeping :P
+I love building web apps using MERN (MongoDb, Express, React and Node.js)  stack, and I  am currently diving deep into Cloud and Devops technologies (AWS, Docker, Kubernetes, CircleCi ). I have also worked with Golang and GraphQL during my internship [@LinkedIn](https://www.linkedin.com/feed/) <br>
+
+I am also a Nanodegree graduate from Udacity for “Cloud DevOps Engineer”. :cloud:
+
+I have done internships as a SDE [@OpenGenus](http://www.opengenus.org/) and [@LinkedIn](https://www.linkedin.com/feed/). And have also been a Crio Launch student [@Crio.Do] (https://www.crio.do/). :woman_technologist: <br>
+Besides coding, I like singing :microphone: and sleeping :sleeping:
 
 You can reach out to me at :
 
@@ -17,18 +20,7 @@ You can reach out to me at :
   <img align="left" alt="Priyanka's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>
 
+<br />
+<br />
 
-<!--
-**Priyanka488/Priyanka488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=Priyanka488&show_icons=true&hide_border=true)
