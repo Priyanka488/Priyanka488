@@ -13,7 +13,11 @@
 <a href="https://github.com/Priyanka48833">
   <img align="left" alt="Priyanka's Github" src="https://img.icons8.com/bubbles/50/000000/github.png"/>
 </a>
-<br>
+
+<div style="height:1px; background: transparent;">
+    <hr style="display:none;" />
+</div>
+
 <br> I am a pre-final year student at UPES, Dehradun, pursuing my Bachelors in Computer Science.<br>
 And also an optimisitic, curious and well-focused developer. :sparkles: <br>
 I am also a Nanodegree graduate from Udacity for “Cloud DevOps Engineer”. :cloud: <br>
