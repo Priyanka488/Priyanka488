@@ -21,6 +21,6 @@ Besides coding, I like singing :microphone: and sleeping :sleeping:
   <img align="left" alt="Priyanka's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>
 
-<a href="https://github.com/Priyanka48833">
+<a href="https://github.com/Priyanka488">
   <img align="left" alt="Priyanka's Github" src="https://img.icons8.com/bubbles/50/000000/github.png"/>
 </a>
