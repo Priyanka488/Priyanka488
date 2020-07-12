@@ -13,15 +13,16 @@ Besides coding, I like singing :microphone: and sleeping :sleeping:
 - :woman_technologist: Code: HTML, CSS, JavaScript, React, MongoDb, Node.js, C++, GraphQL and Golang.
 - :cloud: Technologies: Cloud and Devops (AWS, Docker, Kubernetes, CircleCi ) 
 
+
 <a href="https://twitter.com/Priyanka__488">
-  <img align="left" alt="Priyanka's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+  <img align="left" alt="Priyanka's Twitter" src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/>
 </a>
 
 <a href="https://www.linkedin.com/in/priyanka488/">
-  <img align="left" alt="Priyanka's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+  <img align="left" alt="Priyanka's LinkedIn" src="https://img.icons8.com/doodle/48/000000/linkedin.png"/>
 </a>
 
 <a href="https://github.com/Priyanka488">
-  <img align="left" alt="Priyanka's Github" src="https://img.icons8.com/bubbles/50/000000/github.png"/>
+  <img align="left" alt="Priyanka's Github" src="https://img.icons8.com/doodle/48/000000/github--v1.png"/>
 </a>
 
