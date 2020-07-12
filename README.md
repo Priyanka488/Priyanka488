@@ -10,7 +10,7 @@ I am also a Nanodegree graduate from Udacity for “Cloud DevOps Engineer”. :c
 I have done internships as a SDE [@OpenGenus](http://www.opengenus.org/) and [@LinkedIn](https://www.linkedin.com/feed/). And have also been a Crio Launch student [@Crio.Do](https://www.crio.do/). :woman_technologist: <br>
 Besides coding, I like singing :microphone: and sleeping :sleeping:
 
-- :woman_technologist: Code: JavaScript, React, MongoDb, Node.js, GraphQL and Golang.
+- :woman_technologist: Code: HTML, CSS, JavaScript, React, MongoDb, Node.js, C++, GraphQL and Golang.
 - :cloud: Technologies: Cloud and Devops (AWS, Docker, Kubernetes, CircleCi ) 
 
 <a href="https://twitter.com/Priyanka__488">
