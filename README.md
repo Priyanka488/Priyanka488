@@ -7,8 +7,10 @@ I love building web apps using MERN (MongoDb, Express, React and Node.js)  stack
 
 I am also a Nanodegree graduate from Udacity for “Cloud DevOps Engineer”. :cloud:
 
-I have done internships as a SDE [@OpenGenus](http://www.opengenus.org/) and [@LinkedIn](https://www.linkedin.com/feed/). And have also been a Crio Launch student [@Crio.Do] (https://www.crio.do/). :woman_technologist: <br>
+I have done internships as a SDE [@OpenGenus](http://www.opengenus.org/) and [@LinkedIn](https://www.linkedin.com/feed/). And have also been a Crio Launch student [@Crio.Do](https://www.crio.do/). :woman_technologist: <br>
 Besides coding, I like singing :microphone: and sleeping :sleeping:
+
+<hr>
 
 You can reach out to me at :
 
@@ -23,4 +25,7 @@ You can reach out to me at :
 <br />
 <br />
 
+<hr>
+
 ![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=Priyanka488&show_icons=true&hide_border=true)
+
