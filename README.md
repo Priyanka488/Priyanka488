@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-I am a pre-final year student at UPES, Dehradun, pursuing my Bachelors in Computer Science.<br>
+I am a final year student at UPES, Dehradun, pursuing my Bachelors in Computer Science.<br>
 And also an optimisitic, curious and well-focused developer. :sparkles: <br>
 I am also a Nanodegree graduate from Udacity for “Cloud DevOps Engineer”. :cloud: <br>
 
