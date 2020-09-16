@@ -13,7 +13,6 @@ Besides coding, I like singing :microphone: and sleeping :sleeping:
 - :woman_technologist: Code: HTML, CSS, JavaScript, React, MongoDb, Node.js, C++, GraphQL and Golang.
 - :cloud: Technologies: Cloud and Devops (AWS, Docker, Kubernetes, CircleCi ) 
 
-Email: priyankayadav14999@gmail.com 
 
 <a href="https://twitter.com/Priyanka__488">
   <img align="left" alt="Priyanka's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
