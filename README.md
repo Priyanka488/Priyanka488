@@ -6,8 +6,11 @@ I am a final year student at UPES, Dehradun, pursuing my Bachelors in Computer S
 And also an optimisitic, curious and well-focused developer. :sparkles: <br>
 I am also a Nanodegree graduate from Udacity for “Cloud DevOps Engineer”. :cloud: <br>
 
+- SDE Intern [@Commvault](https://www.commvault.com/) 
+- Former SDE Intern [@LinkedIn](https://www.linkedin.com/feed/). 
+- Former technical content writer intern [@OpenGenus](http://www.opengenus.org/).
+- Crio Launch student [@Crio.Do](https://www.crio.do/). :woman_technologist: <br>
 
-I have done internships as a SDE [@OpenGenus](http://www.opengenus.org/) and [@LinkedIn](https://www.linkedin.com/feed/). And have also been a Crio Launch student [@Crio.Do](https://www.crio.do/). :woman_technologist: <br>
 Besides coding, I like singing :microphone: and sleeping :sleeping:
 
 - :woman_technologist: Code: HTML, CSS, JavaScript, React, MongoDb, Node.js, C++, GraphQL and Golang.
