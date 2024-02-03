@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-I am currently working as a software engineer at LinkedIn.<br>
+I am currently working as a senior software engineer at LinkedIn.<br>
 I like dabbling with different technologies, by writing blogs and creating projects :sparkles: <br>
 Currently, I am working in Golang, and have also worked with [@Kodekloud](https://kodekloud.com) to create courses around the same :cloud: <br>
 
